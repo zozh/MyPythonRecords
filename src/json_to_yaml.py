@@ -36,7 +36,7 @@ def get_version() -> str:
 
 def convert(in_file: str, out_file: str) -> None:
     """json 转 yaml
-    注：默认文件，存在不检查
+    注：默认文件存在不检查
 
     Args:
         in_file (str): json 路径
@@ -69,7 +69,7 @@ def get_parameter() -> argparse.Namespace:
             parser (argparse.ArgumentParser)
             args (argparse.Namespace)
         Returns:
-            NoReturn
+            None
         """
         if args.version:
             return

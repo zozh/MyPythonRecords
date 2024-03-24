@@ -34,7 +34,7 @@ def get_version() -> str:
 
 def convert(in_file: str, out_file: str):
     """csv 转 json
-    注：默认文件，存在不检查
+    注：默认文件存在不检查
 
     Args:
         in_file (str): csv 路径
