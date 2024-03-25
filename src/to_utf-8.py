@@ -1,7 +1,7 @@
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
 """
-@Time           :   2023/10/12 15:36:02
+@Time           :   2023/10/12
 @Author         :   zouzhao
 @Version        :   0.1.0
 @Contact        :   wszwc3721@163.com
