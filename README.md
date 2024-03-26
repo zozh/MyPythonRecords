@@ -17,4 +17,5 @@ Remember to star the repo if you love the scripts~ 😉
 ## If you like the project:
 
 Star this Repo - [MyPythonRecords](https://github.com/zozh/MyPythonRecords)
+
 Follow me on GitHub - [ZouZhao](https://github.com/zozh)
